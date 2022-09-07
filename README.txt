@@ -10,3 +10,4 @@ EXPECTED:
 TO RUN:
 1) clone project
 2) run "pip install -r requirements.txt"
+test
